@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on an internship
-- 📫 How to reach me just mail at naga553@gmail.com
+- 📫 How to reach me just mail at nagasundharam553@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
