@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nagasundharam
-- 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in backend Development
+- 
+
+- 🌱 I’m currently learning java - dsa
 - 💞️ I’m looking to collaborate on an internship
 - 📫 How to reach me just mail at nagasundharam553@gmail.com
 - 😄 Pronouns: ...
